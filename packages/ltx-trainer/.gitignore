@@ -1,3 +1,7 @@
 datasets
 outputs
 wandb
+
+.venv
+.codex
+uv.lock
